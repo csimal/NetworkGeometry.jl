@@ -1,0 +1,13 @@
+name = "NetworkGeometry"
+uuid = "3387c8df-3c85-4e15-895d-7c5d4b850699"
+authors = ["Cédric Simal"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
